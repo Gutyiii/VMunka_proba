@@ -1,0 +1,5 @@
+$(function(){
+    /*
+    menű felcsúszás csak
+    */
+});
